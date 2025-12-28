@@ -1,14 +1,14 @@
 <div align="center">
 
-# hey, i'm mggpie 👋
+# Hi, I'm mggpie 👋
 
-**`unix herner`**
+**`UN*X Herner`**
 
 </div>
 
 ---
 
-### 🛠️ what i work with
+### 🛠️ What I Work With
 
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
@@ -22,15 +22,15 @@
 
 ---
 
-### 📁 projects
+### 📁 Projects
 
-- **[void-installer](https://github.com/mggpie/void-installer)** — automated void linux installer with luks2 encryption
-- **[dotfiles](https://github.com/mggpie/dotfiles)** — ansible-managed system configuration
+- **[void-installer](https://github.com/mggpie/void-installer)** — Automated Void Linux installer with LUKS2 encryption
+- **[dotfiles](https://github.com/mggpie/dotfiles)** — Ansible-managed system configuration
 
 ---
 
 <div align="center">
 
-*btw i use void*
+*btw I use Void*
 
 </div>
