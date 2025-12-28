@@ -30,6 +30,7 @@
 
 - **[void-installer](https://github.com/mggpie/void-installer)** — Automated Void Linux installer with LUKS2 encryption
 - **[dotfiles](https://github.com/mggpie/dotfiles)** — Ansible-managed system configuration
+- **[kissy](https://github.com/mggpie/kissy)** — Simple terminal emulator for X based on st
 
 ---
 
