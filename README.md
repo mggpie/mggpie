@@ -23,7 +23,7 @@
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=flat&logo=ceph&logoColor=white)
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0A66C2?style=flat&logo=cisco&logoColor=white)
 ![Electrical](https://img.shields.io/badge/Electrical_≤1kV-FFD700?style=flat&logo=zap&logoColor=black)
 
 ---
