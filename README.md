@@ -22,6 +22,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![SEP](https://img.shields.io/badge/SEP_≤1kV-FFD700?style=flat&logo=zap&logoColor=black)
 
 ---
 
