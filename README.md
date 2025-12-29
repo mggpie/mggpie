@@ -28,7 +28,7 @@
 
 ---
 
-### 📁 Projects
+### 📁 Side Projects
 
 **Active**
 - **[void-installer](https://github.com/mggpie/void-installer)** — Automated Void Linux installer with LUKS2 encryption
