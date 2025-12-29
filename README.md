@@ -30,9 +30,17 @@
 
 ### 📁 Projects
 
+**Active**
 - **[void-installer](https://github.com/mggpie/void-installer)** — Automated Void Linux installer with LUKS2 encryption
 - **[dotfiles](https://github.com/mggpie/dotfiles)** — Ansible-managed system configuration
-- **[kissy](https://github.com/mggpie/kissy)** — A meaningless simple terminal fork for Xorg
+
+**Archived**
+- **[kissy](https://github.com/mggpie/kissy)** — Terminal emulator fork for Xorg
+- **[xbps-packages](https://github.com/mggpie/xbps-packages)** — xbps-src templates for Void Linux
+- **[vivaldi-ui-tweaks](https://github.com/mggpie/vivaldi-ui-tweaks)** — Custom UI for Vivaldi browser
+- **[startpage](https://github.com/mggpie/startpage)** — Pixel art browser startpage
+- **[adobe-xd-stuff](https://github.com/mggpie/adobe-xd-stuff)** — UI/UX mockups
+- **[random-frontend-stuff](https://github.com/mggpie/random-frontend-stuff)** — Frontend experiments
 
 ---
 
