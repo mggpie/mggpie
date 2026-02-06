@@ -14,6 +14,8 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Fish](https://img.shields.io/badge/Fish-34C534?style=flat&logo=gnubash&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-000000?style=flat&logo=gnubash&logoColor=white)
 
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![SaltStack](https://img.shields.io/badge/SaltStack-57BCAD?style=flat&logo=saltproject&logoColor=white)
