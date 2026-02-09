@@ -28,6 +28,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
 ![Networking](https://img.shields.io/badge/Networking-0A66C2?style=flat&logo=cisco&logoColor=white)
+![Hardware](https://img.shields.io/badge/Hardware-555555?style=flat&logo=serverfault&logoColor=white)
 ![Electrical](https://img.shields.io/badge/Electrical_≤1kV-FFD700?style=flat&logo=zap&logoColor=black)
 
 ---
@@ -35,6 +36,7 @@
 ### 📁 Side Projects
 
 **Active**
+- **[homelab-infra](https://github.com/mggpie/homelab-infra)** — Proxmox VE homelab infrastructure (Ansible + KVM)
 - **[void-installer](https://github.com/mggpie/void-installer)** — Automated Void Linux installer with LUKS2 encryption
 - **[dotfiles](https://github.com/mggpie/dotfiles)** — Ansible-managed system configuration
 
