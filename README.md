@@ -36,10 +36,9 @@
 ### 📁 Side Projects
 
 **Active**
-- **[homelab-infra](https://github.com/mggpie/homelab-infra)** — Proxmox VE homelab infrastructure (Ansible + KVM)
 - **[void-installer](https://github.com/mggpie/void-installer)** — Automated Void Linux installer with LUKS2 encryption
 - **[dotfiles](https://github.com/mggpie/dotfiles)** — Ansible-managed system configuration
-
+- **[homelab-infra](https://github.com/mggpie/homelab-infra)** — Proxmox VE homelab infrastructure (Ansible + KVM)
 **Archived**
 - **[kissy](https://github.com/mggpie/kissy)** — Terminal emulator fork for Xorg
 - **[xbps-packages](https://github.com/mggpie/xbps-packages)** — xbps-src templates for Void Linux
