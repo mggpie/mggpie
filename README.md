@@ -28,7 +28,7 @@
 ![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=flat&logo=ceph&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Allure TestOps](https://img.shields.io/badge/Allure_TestOps-FF6B00?style=flat&logo=qameta&logoColor=white)
+![Allure TestOps](https://img.shields.io/badge/Allure_TestOps-FF6B00?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwb2x5Z29uIHBvaW50cz0iMTIsMiAzLDIyIDEyLDE3IDIxLDIyIi8+PC9zdmc+)
 
 ![Networking](https://img.shields.io/badge/Networking-0A66C2?style=flat&logo=cisco&logoColor=white)
 ![Hardware](https://img.shields.io/badge/Hardware-555555?style=flat&logo=serverfault&logoColor=white)
