@@ -39,6 +39,7 @@
 ### 📁 Side Projects
 
 **Active**
+- **[async-thought-engine](https://github.com/mggpie/async-thought-engine)** — Self-learning life OS that turns raw thoughts into actionable proposals
 - **[void-installer](https://github.com/mggpie/void-installer)** — Automated Void Linux installer with LUKS2 encryption
 - **[dotfiles](https://github.com/mggpie/dotfiles)** — Ansible-managed system configuration
 - **[homelab-infra](https://github.com/mggpie/homelab-infra)** — Proxmox VE homelab infrastructure (Ansible + KVM)
