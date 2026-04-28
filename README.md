@@ -2,7 +2,7 @@
 
 # Hi, I'm mggpie 👋
 
-**`UN*X Herner`**
+**`UN*X Herder`**
 
 </div>
 
