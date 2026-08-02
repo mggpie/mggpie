@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm mggpie 👋
+# Hi, I'm mggpie
 
 **`UN*X Herder`**
 
@@ -47,11 +47,3 @@
 - **[startpage](https://github.com/mggpie/startpage)** — Pixel art browser startpage
 - **[adobe-xd-stuff](https://github.com/mggpie/adobe-xd-stuff)** — UI/UX mockups
 - **[random-frontend-stuff](https://github.com/mggpie/random-frontend-stuff)** — Frontend experiments
-
----
-
-<div align="center">
-
-*btw I use Void*
-
-</div>
