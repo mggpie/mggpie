@@ -6,9 +6,7 @@
 
 </div>
 
----
-
-### 🛠️ What I Work With
+### 🛠️ What I Deal With
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -33,8 +31,6 @@
 ![Networking](https://img.shields.io/badge/Networking-0A66C2?style=flat&logo=cisco&logoColor=white)
 ![Hardware](https://img.shields.io/badge/Hardware-555555?style=flat&logo=serverfault&logoColor=white)
 ![Electrical](https://img.shields.io/badge/Electrical_≤1kV-FFD700?style=flat&logo=zap&logoColor=black)
-
----
 
 ### 📁 Side Projects
 
